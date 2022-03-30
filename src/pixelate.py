@@ -3,7 +3,7 @@ import cv2
 import argparse
 import matplotlib.pyplot as plt
 
-SIZE = 8
+SIZE = 8 #set the default size to be 8
 path = ""
 
 def fill_rect(r, c, k, val):
